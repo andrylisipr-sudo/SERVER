@@ -1,5 +1,7 @@
-{
-  "version": 1,
-  "title": "Benvenuto!",
-  "content": "Questa è la prima news del tuo programma aggiornabile."
-}
+[
+    {
+        "titolo": "Aggiornamento 1.0",
+        "data": "2025-11-26",
+        "testo": "Versione iniziale del programma!"
+    }
+]
