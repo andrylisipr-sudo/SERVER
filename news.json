@@ -1,7 +1,11 @@
-[
-    {
-        "titolo": "Aggiornamento 1.0",
-        "data": "2025-11-26",
-        "testo": "Versione iniziale del programma!"
-    }
-]
+{
+    "news_version": 3,
+    "update_version": 2,
+
+    "news_title": "Nuova funzione nel pannello!",
+    "news_content": "Adesso puoi leggere le news direttamente dall'applicazione.",
+
+    "update_title": "Aggiornamento disponibile!",
+    "update_content": "Versione 2.0 - Miglioramenti e fix importanti.",
+    "update_url": "https://tuodominio.com/download/nuovaversione.exe"
+}
